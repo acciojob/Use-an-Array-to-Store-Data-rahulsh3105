@@ -1,4 +1,8 @@
-let yourArray = [1, 2, 'three', true, null];
-console.log(yourArray); // output: [1, 2, 'three', true]
-console.log(yourArray.length); // output: 4
-console.log(yourArray[2]); // output: 'three'
+let yourArray;
+// assign your array the correct value in the next line
+// your code here!
+// code end
+
+yourArray = ['one', 2, 'three', true, 5, false];
+
+module.exports = yourArray;
